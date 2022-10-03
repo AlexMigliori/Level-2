@@ -1,0 +1,70 @@
+{
+    "appetizers": [
+        {
+            "name": "Nachos",
+            "ingredients": ["Cheese", "Tortilla Chips", "Chicken"],
+            "description": "Cheesy NACHOS, with shredded CHICKEN!"
+        },
+        {
+            "name": "Onion Rings",
+            "ingredients": ["Onion", "Rings"],
+            "description": "These are rings, with ONIONS in them!"
+        },
+        {
+            "name": "Chips & Dip",
+            "ingredients": ["Chips", "Dip"],
+            "description": "These are chips, with DIP!"
+        }
+    ],
+    "Sandwiches": [
+        {
+            "name": "Italian Sub",
+            "ingredients": ["Italian", "Sub"],
+            "description": "These are Italians, in SUBS! Buongiorno!"
+        },
+        {
+            "name": "Philly Cheese Steak",
+            "ingredients": ["cheese sauce", "peppers", "steak"],
+            "description": "Best thing out of Philly."
+        },
+        {
+            "name": "Chicken-Bacon-Ranch",
+            "ingredients": ["Chicken", "Bacon", "Ranch"],
+            "description": "It's in the name... Eat up"
+        }
+    ],
+    "desserts": [
+        {
+            "name": "Lava Cake",
+            "ingredients": ["Lava", "Cake"],
+            "description": "Just wait for it to cool down a bit..."
+        },
+        {
+            "name": "Ice Cream a la Mode",
+            "ingredients": ["Ice", "Cream", "Mode"],
+            "description": "Seems a bit redundant, but alright!"
+        },
+        {
+            "name": "Apple Pie",
+            "ingredients": ["Apple", "Pie"],
+            "description": "About as 'Murican as it gets!"
+        }
+    ],
+    "drinks": [
+        {
+            "name": "Water",
+            "ingredients": ["H", "2", "O"],
+            "description": "That's some high-quality H20 right there!"
+        },
+        {
+            "name": "Lemondade",
+            "ingredients": ["Lemon", "AIDS"],
+            "description": "Sure it's fresh; I made that myself this morning!"
+        },
+        {
+            "name": "Diet Coke",
+            "ingredients": ["Diet", "Coke"],
+            "description": "What; did you want a Pepsi?"
+        }
+    ]
+}
